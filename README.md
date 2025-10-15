@@ -1,3 +1,6 @@
+Diseño de casos pruebas 
+Tripleten Sprint #2
+
 # 🧩 Proyecto 2: Diseño de Casos de Prueba  
 
 ## 🔍 Descripción General  
